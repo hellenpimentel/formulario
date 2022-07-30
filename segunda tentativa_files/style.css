@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: rgb(169, 204, 199)
+}
+
+.foto {
+    border-radius: 10px;
+    align-items: center;
+}
+
+
+.cabecalho {
+    color: rgb(2, 0, 0);
+    font-size: 20px;
+}
+
+.titulo {
+    font-size: 50px;
+    color: rgb(245, 112, 4);
+    text-align-last: center;
+}
+
+.subtitulo {
+    font-size: 25px;
+    color: rgba(134, 9, 192, 0.986);
+
+}
+
+.grupo {
+    color: rgb(5, 0, 0);
+    font-size: 18px;
+}
+.campo {
+    color: black;
+    font-size: 18px;
+}
